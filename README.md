@@ -4,5 +4,4 @@ This project incorporates the ChatGPT API as well as a HTML, CSS + JavaScript fr
 
 
 
-export OPENAI_API_KEY=
-OPENAI_API_KEY=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
+export OPENAI_API_KEY=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
